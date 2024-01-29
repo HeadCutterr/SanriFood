@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/10MinScene.unity
+    guid: 49d905e055a4d7d4f949238fc77ddb21
+  - enabled: 1
+    path: Assets/Scenes/20MinScene.unity
+    guid: b7d1e1f12f5abb147bcccc5a24a70fb9
+  - enabled: 1
+    path: Assets/Scenes/40MinScene.unity
+    guid: 6cc4fb832a92caa4a828dd8378336ec1
+  - enabled: 1
+    path: Assets/Scenes/60MScene.unity
+    guid: ac73af4af4e8c5b48b41d5fd76e71e5c
+  - enabled: 1
+    path: Assets/Scenes/10MinutesRec/FruitSmuz.unity
+    guid: e0940a5fb117fd8408a9f8f5aaecf75c
+  - enabled: 1
+    path: Assets/Scenes/10MinutesRec/PuddingCHIA.unity
+    guid: 6b9367cc0dc55c341bc95a08a3eabc26
+  - enabled: 1
+    path: Assets/Scenes/10MinutesRec/TVORAG.unity
+    guid: 49162c790e44cbd4c8c0fab99b668dc4
+  - enabled: 1
+    path: Assets/Scenes/10MinutesRec/KUSSIA.unity
+    guid: cdb6b939b048e5f4ea28048129503135
+  - enabled: 1
+    path: Assets/Scenes/20MinutesRec/1EggCake.unity
+    guid: 37d07f7d93cd4e54090e0f850ba62572
+  - enabled: 1
+    path: Assets/Scenes/20MinutesRec/2ApplePan.unity
+    guid: 5b8e26fce45163f46a32467b31eeb22e
+  - enabled: 1
+    path: Assets/Scenes/20MinutesRec/3EggPomid.unity
+    guid: 3435cb2ccb06bf346854a8fa2528c97d
+  - enabled: 1
+    path: Assets/Scenes/20MinutesRec/4Tamago.unity
+    guid: be17406426ba6fd4b91e7c2d2b67da71
+  - enabled: 1
+    path: Assets/Scenes/40MinutesRec/1SandWith.unity
+    guid: 5d606a11cb1b44a4f8b368857b5d9200
+  - enabled: 1
+    path: Assets/Scenes/40MinutesRec/2Blyani.unity
+    guid: b1543b4a96b746d4b9bbdf55ebed6af7
+  - enabled: 1
+    path: Assets/Scenes/40MinutesRec/3TVORZAP.unity
+    guid: 26051f06807640c4d818734f13504364
+  - enabled: 1
+    path: Assets/Scenes/40MinutesRec/4Chota.unity
+    guid: 027fc7937a3325e4ebeb7c50eeb15470
+  - enabled: 1
+    path: Assets/Scenes/1HourRec/1Rulet.unity
+    guid: 561bc7dde171eb14c984b9d15a821145
+  - enabled: 1
+    path: Assets/Scenes/1HourRec/2Poke.unity
+    guid: eca43c49913cb9c4da441ef22a656368
+  - enabled: 1
+    path: Assets/Scenes/1HourRec/3Spinat.unity
+    guid: fe752ecfdfdeebe41bb2b8261869e159
+  - enabled: 1
+    path: Assets/Scenes/1HourRec/4Kiksi.unity
+    guid: ef1a94f0e36f7d8499f893ef3394ff3f
+  - enabled: 1
+    path: Assets/Scenes/More.unity
+    guid: 0409bb3aabe505d4ab601a4c06ab893d
+  - enabled: 1
+    path: Assets/Scenes/Favorite.unity
+    guid: 59b75e139de658a41815d3a5a46f9faf
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 4dc6795467c5d724c9bcad3cc1d62759, type: 2}
